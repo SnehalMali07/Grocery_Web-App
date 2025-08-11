@@ -52,7 +52,7 @@ GMS/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/uborkar/Grocery_Web-App.git
+git clone https://github.com/SnehalMali07/Grocery_Web-App.git
 
 # 2. Navigate to project directory
 cd Grocery_Web-App
